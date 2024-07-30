@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of Solidity programming.",
+  "questions": [
+    {
+      "question": "What is Solidity?",
+      "answers": ["Lang", "Tool", "OS"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Solidity is used for?",
+      "answers": ["DApps", "Web", "Games"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": ["Code", "File", "Data"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Solidity?",
+      "answers": ["Gavin", "Vitalik", "Linus"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is EVM?",
+      "answers": ["Machine", "Lang", "DB"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Remix?",
+      "answers": ["IDE", "Lang", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is pragma?",
+      "answers": ["Directive", "Library", "Class"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is uint?",
+      "answers": ["Type", "Func", "Class"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is msg.sender?",
+      "answers": ["Caller", "Owner", "Sender"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is fallback?",
+      "answers": ["Func", "Var", "Obj"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Solidity file extension?",
+      "answers": [".sol", ".sld", ".slt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a struct?",
+      "answers": ["Type", "Func", "Data"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an event?",
+      "answers": ["Log", "Error", "Exception"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gas?",
+      "answers": ["Cost", "Coin", "Func"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is mapping?",
+      "answers": ["Dict", "List", "Array"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a library?",
+      "answers": ["Code", "Data", "File"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is inheritance?",
+      "answers": ["OOP", "Func", "Data"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a modifier?",
+      "answers": ["Func", "Var", "Scope"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is require?",
+      "answers": ["Check", "Loop", "Func"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ether?",
+      "answers": ["Crypto", "Token", "App"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
